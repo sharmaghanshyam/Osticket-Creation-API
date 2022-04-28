@@ -16,7 +16,7 @@ Before you can start using the API you will need to do some configuring in osTic
 9. Replace 'yourdomain.com' lines with you corresponding domains.
 10 'ost-api.php' file is standrad file we have just modified it as per the requirement.
  
-If you still have any issue contact me - luckysharma726@gmail.com
+If you still have any issue contact me - jumboteam726@gmail.com (Lucky)
 	
 
 If this is worth for you please buy a coffee for me @ jumboteam726@gmail.com (PayPal)

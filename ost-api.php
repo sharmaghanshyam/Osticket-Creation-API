@@ -36,7 +36,9 @@ $data = array(
     'ip'        =>      $_SERVER['REMOTE_ADDR'], // Should be IP address of the machine thats trying to open the ticket.
 	'topicId'   =>      $topicId, // the help Topic that you want to use for the ticket 
 	
-	'attachments' => array()
+	'attachments' => array(array('file.txt' =>
+        'data:text/plain;base64,'
+            .base64_encode(file_get_contents('/file.txt'))))
 );
 
 # more fields are available and are documented at:

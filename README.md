@@ -19,7 +19,7 @@ Before you can start using the API you will need to do some configuring in osTic
 If you still have any issue contact me - luckysharma726@gmail.com
 	
 
-
+If this is worth for you please buy a coffee for me @ jumboteam726@gmail.com (PayPal)
 
 
 

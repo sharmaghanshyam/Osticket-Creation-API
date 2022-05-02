@@ -16,6 +16,20 @@ Before you can start using the API you will need to do some configuring in osTic
 9. Replace 'yourdomain.com' lines with you corresponding domains.
 10 'ost-api.php' file is standrad file we have just modified it as per the requirement.
  
+ 
+ 
+ Ready to Use API
+ 1. Get Ticket Number
+ 2. Get Client Tickets
+ 3. Create Ticket
+ 4. Reply Ticket
+ 5. Create Ticket List ( Multiple Tickets created in 1 call)
+ 6. Reply Ticket List ( Multiple Tickets reply in 1 call)
+ 
+ 
+ 
+ 
+ 
 If you still have any issue contact me - jumboteam726@gmail.com (Lucky)
 	
 

@@ -25,6 +25,7 @@ Before you can start using the API you will need to do some configuring in osTic
  4. Reply Ticket
  5. Create Ticket List ( Multiple Tickets created in 1 call)
  6. Reply Ticket List ( Multiple Tickets reply in 1 call)
+ 7. Create User
  
  
  
